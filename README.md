@@ -1,7 +1,7 @@
 - Header
    - logo
    - nav items
-   - carres element
+   - carrers element
 
 - Main Container
    - Banner
