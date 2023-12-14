@@ -1,12 +1,13 @@
 - Header
    - logo
    - nav items
-   - carrers element
+   - careers element
 
 - Main Container
    - Banner
      - Background image 
      - Watch Now button
    - Div Element(Opportunities)
-   - Paragraph Element(Information abour respected page)
+   - Paragraph Element(Information about respected page)
+   - Make it responsive
    
